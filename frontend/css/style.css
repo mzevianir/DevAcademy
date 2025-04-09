@@ -49,7 +49,7 @@ nav li:hover{
 /* Classe que define a pagina atual que o usuário se encontra */
 .menu{
     border-bottom: 1px solid #066172;
-}}
+}
 
 .inicio{
     display: flex;
